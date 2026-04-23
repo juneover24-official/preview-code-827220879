@@ -1,0 +1,55 @@
+{
+  "qq_number": "827220879",
+  "group_number": "303285472",
+  "updated_at": "2026-04-23T15:52:36.823230",
+  "skins": [
+    {
+      "name": "狐狸の锈湖",
+      "file": "狐狸の锈湖.bdi",
+      "thumb": "狐狸の锈湖.bdi_py_26_light_thumb.png",
+      "full": "狐狸の锈湖.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の深渊炽辰",
+      "file": "狐狸の深渊炽辰.bdi",
+      "thumb": "狐狸の深渊炽辰.bdi_py_26_light_thumb.png",
+      "full": "狐狸の深渊炽辰.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の深渊炽辰融合",
+      "file": "狐狸の深渊炽辰融合.bdi",
+      "thumb": "狐狸の深渊炽辰融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の深渊炽辰融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の赤鸢凌霄",
+      "file": "狐狸の赤鸢凌霄.bdi",
+      "thumb": "狐狸の赤鸢凌霄.bdi_py_26_light_thumb.png",
+      "full": "狐狸の赤鸢凌霄.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の赤鸢凌霄融合",
+      "file": "狐狸の赤鸢凌霄融合.bdi",
+      "thumb": "狐狸の赤鸢凌霄融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の赤鸢凌霄融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の深渊炽辰",
+      "file": "狐狸の深渊炽辰.bds",
+      "thumb": "狐狸の深渊炽辰.bds_py_26_light_thumb.png",
+      "full": "狐狸の深渊炽辰.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の锈湖",
+      "file": "狐狸の锈湖.bds",
+      "thumb": "狐狸の锈湖.bds_py_26_light_thumb.png",
+      "full": "狐狸の锈湖.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の赤鸢凌霄",
+      "file": "狐狸の赤鸢凌霄.bds",
+      "thumb": "狐狸の赤鸢凌霄.bds_py_26_light_thumb.png",
+      "full": "狐狸の赤鸢凌霄.bds_py_26_light.png"
+    }
+  ]
+}

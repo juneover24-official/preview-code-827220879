@@ -1,0 +1,601 @@
+{
+  "qq_number": "827220879",
+  "group_number": "1075311361",
+  "updated_at": "2026-04-23T15:52:36.059438",
+  "skins": [
+    {
+      "name": "狐狸の葡萄狂想曲闷脆融合",
+      "file": "狐狸の葡萄狂想曲闷脆融合.bdi",
+      "thumb": "狐狸の葡萄狂想曲闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽脆脆",
+      "file": "狐狸の碧梧浣羽脆脆.bdi",
+      "thumb": "狐狸の碧梧浣羽脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意踩雪",
+      "file": "狐狸の绿意踩雪.bdi",
+      "thumb": "狐狸の绿意踩雪.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿意踩雪.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の烬时永寂闷闷",
+      "file": "狐狸の烬时永寂闷闷音.bdi",
+      "thumb": "狐狸の烬时永寂闷闷音.bdi_py_26_light_thumb.png",
+      "full": "狐狸の烬时永寂闷闷音.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の月球碎片闷闷融合",
+      "file": "狐狸の月球碎片闷闷融合.bdi",
+      "thumb": "狐狸の月球碎片闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の月球碎片闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽闷脆",
+      "file": "狐狸の碧梧浣羽闷脆.bdi",
+      "thumb": "狐狸の碧梧浣羽闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿闷脆融合",
+      "file": "狐狸の水仙螺钿闷脆融合.bdi",
+      "thumb": "狐狸の水仙螺钿闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦脆闷",
+      "file": "狐狸の紫藤蝶梦脆闷.bdi",
+      "thumb": "狐狸の紫藤蝶梦脆闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下脆脆",
+      "file": "狐狸の紫藤花下脆脆.bdi",
+      "thumb": "狐狸の紫藤花下脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の烬时永寂脆脆音",
+      "file": "狐狸の烬时永寂脆脆音.bdi",
+      "thumb": "狐狸の烬时永寂脆脆音.bdi_py_26_light_thumb.png",
+      "full": "狐狸の烬时永寂脆脆音.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦脆闷融合",
+      "file": "狐狸の紫藤蝶梦脆闷融合.bdi",
+      "thumb": "狐狸の紫藤蝶梦脆闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦脆闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽踩雪音融合",
+      "file": "狐狸の碧梧浣羽踩雪音融合.bdi",
+      "thumb": "狐狸の碧梧浣羽踩雪音融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽踩雪音融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下闷闷",
+      "file": "狐狸の紫藤花下闷闷.bdi",
+      "thumb": "狐狸の紫藤花下闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下闷闷融合",
+      "file": "狐狸の紫藤花下闷闷融合.bdi",
+      "thumb": "狐狸の紫藤花下闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿脆脆",
+      "file": "狐狸の水仙螺钿脆脆.bdi",
+      "thumb": "狐狸の水仙螺钿脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸闷闷",
+      "file": "狐狸の灰隅寻幸闷闷.bdi",
+      "thumb": "狐狸の灰隅寻幸闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿闷闷融合",
+      "file": "狐狸の水仙螺钿闷闷融合.bdi",
+      "thumb": "狐狸の水仙螺钿闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の竹丝叩青筠闷脆融合",
+      "file": "狐狸の竹丝叩青筠闷脆融合.bdi",
+      "thumb": "狐狸の竹丝叩青筠闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の竹丝叩青筠闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲踩雪融合",
+      "file": "狐狸の葡萄狂想曲踩雪融合.bdi",
+      "thumb": "狐狸の葡萄狂想曲踩雪融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲踩雪融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦闷闷融合",
+      "file": "狐狸の紫藤蝶梦闷闷融合.bdi",
+      "thumb": "狐狸の紫藤蝶梦闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下闷脆",
+      "file": "狐狸の紫藤花下闷脆.bdi",
+      "thumb": "狐狸の紫藤花下闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意闷",
+      "file": "狐狸の绿意闷.bdi",
+      "thumb": "狐狸の绿意闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿意闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の竹丝叩青筠闷脆",
+      "file": "狐狸の竹丝叩青筠闷脆.bdi",
+      "thumb": "狐狸の竹丝叩青筠闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の竹丝叩青筠闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の月球碎片闷闷",
+      "file": "狐狸の月球碎片闷闷.bdi",
+      "thumb": "狐狸の月球碎片闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の月球碎片闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲脆脆",
+      "file": "狐狸の葡萄狂想曲脆脆.bdi",
+      "thumb": "狐狸の葡萄狂想曲脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下脆闷融合",
+      "file": "狐狸の紫藤花下脆闷融合.bdi",
+      "thumb": "狐狸の紫藤花下脆闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下脆闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽脆脆融合",
+      "file": "狐狸の碧梧浣羽脆脆融合.bdi",
+      "thumb": "狐狸の碧梧浣羽脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿闷脆",
+      "file": "狐狸の水仙螺钿闷脆.bdi",
+      "thumb": "狐狸の水仙螺钿闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦闷脆",
+      "file": "狐狸の紫藤蝶梦闷脆.bdi",
+      "thumb": "狐狸の紫藤蝶梦闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸闷脆",
+      "file": "狐狸の灰隅寻幸闷脆.bdi",
+      "thumb": "狐狸の灰隅寻幸闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下脆闷",
+      "file": "狐狸の紫藤花下脆闷.bdi",
+      "thumb": "狐狸の紫藤花下脆闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下脆脆融合",
+      "file": "狐狸の紫藤花下脆脆融合.bdi",
+      "thumb": "狐狸の紫藤花下脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽闷闷",
+      "file": "狐狸の碧梧浣羽闷闷.bdi",
+      "thumb": "狐狸の碧梧浣羽闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の烬时永寂闷闷融合",
+      "file": "狐狸の烬时永寂闷闷音融合.bdi",
+      "thumb": "狐狸の烬时永寂闷闷音融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の烬时永寂闷闷音融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦风铃音融合",
+      "file": "狐狸の紫藤蝶梦风铃融合.bdi",
+      "thumb": "狐狸の紫藤蝶梦风铃融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦风铃融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の烬时永寂脆脆融合",
+      "file": "狐狸の烬时永寂脆脆音融合.bdi",
+      "thumb": "狐狸の烬时永寂脆脆音融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の烬时永寂脆脆音融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲脆脆融合",
+      "file": "狐狸の葡萄狂想曲脆脆融合.bdi",
+      "thumb": "狐狸の葡萄狂想曲脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿脆脆融合",
+      "file": "狐狸の水仙螺钿脆脆融合.bdi",
+      "thumb": "狐狸の水仙螺钿脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の月球碎片脆脆",
+      "file": "狐狸の月球碎片脆脆.bdi",
+      "thumb": "狐狸の月球碎片脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の月球碎片脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸闷脆融合",
+      "file": "狐狸の灰隅寻幸闷脆融合.bdi",
+      "thumb": "狐狸の灰隅寻幸闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意闷脆",
+      "file": "狐狸の绿意闷脆.bdi",
+      "thumb": "狐狸の绿意闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿意闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸脆脆",
+      "file": "狐狸の灰隅寻幸脆脆.bdi",
+      "thumb": "狐狸の灰隅寻幸脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽闷脆融合",
+      "file": "狐狸の碧梧浣羽闷脆融合.bdi",
+      "thumb": "狐狸の碧梧浣羽闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の月球碎片脆脆融合",
+      "file": "狐狸の月球碎片脆脆融合.bdi",
+      "thumb": "狐狸の月球碎片脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の月球碎片脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲闷脆",
+      "file": "狐狸の葡萄狂想曲闷脆.bdi",
+      "thumb": "狐狸の葡萄狂想曲闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意闷脆融合",
+      "file": "狐狸の绿意闷脆融合.bdi",
+      "thumb": "狐狸の绿意闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿意闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦风铃音",
+      "file": "狐狸の紫藤蝶梦风铃.bdi",
+      "thumb": "狐狸の紫藤蝶梦风铃.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦风铃.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽闷闷融合",
+      "file": "狐狸の碧梧浣羽闷闷融合.bdi",
+      "thumb": "狐狸の碧梧浣羽闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸闷闷融合",
+      "file": "狐狸の灰隅寻幸闷闷融合.bdi",
+      "thumb": "狐狸の灰隅寻幸闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲闷闷",
+      "file": "狐狸の葡萄狂想曲闷闷.bdi",
+      "thumb": "狐狸の葡萄狂想曲闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の竹丝叩青筠脆脆融合",
+      "file": "狐狸の竹丝叩青筠脆脆融合.bdi",
+      "thumb": "狐狸の竹丝叩青筠脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の竹丝叩青筠脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の竹丝叩青筠脆脆",
+      "file": "狐狸の竹丝叩青筠脆脆.bdi",
+      "thumb": "狐狸の竹丝叩青筠脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の竹丝叩青筠脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦闷闷",
+      "file": "狐狸の紫藤蝶梦闷闷.bdi",
+      "thumb": "狐狸の紫藤蝶梦闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿闷闷",
+      "file": "狐狸の水仙螺钿闷闷.bdi",
+      "thumb": "狐狸の水仙螺钿闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意玻璃",
+      "file": "狐狸の绿意玻璃.bdi",
+      "thumb": "狐狸の绿意玻璃.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿意玻璃.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸脆脆融合",
+      "file": "狐狸の灰隅寻幸脆脆融合.bdi",
+      "thumb": "狐狸の灰隅寻幸脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意闷融合",
+      "file": "狐狸の绿意闷融合.bdi",
+      "thumb": "狐狸の绿意闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿意闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意玻璃融合",
+      "file": "狐狸の绿意玻璃融合.bdi",
+      "thumb": "狐狸の绿意玻璃融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿意玻璃融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下闷脆融合",
+      "file": "狐狸の紫藤花下闷脆融合.bdi",
+      "thumb": "狐狸の紫藤花下闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意踩雪融合",
+      "file": "狐狸の绿意踩雪融合.bdi",
+      "thumb": "狐狸の绿意踩雪融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿意踩雪融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲踩雪",
+      "file": "狐狸の葡萄狂想曲踩雪.bdi",
+      "thumb": "狐狸の葡萄狂想曲踩雪.bdi_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲踩雪.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽踩雪音",
+      "file": "狐狸の碧梧浣羽踩雪音.bdi",
+      "thumb": "狐狸の碧梧浣羽踩雪音.bdi_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽踩雪音.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦闷脆融合",
+      "file": "狐狸の紫藤蝶梦闷脆融合.bdi",
+      "thumb": "狐狸の紫藤蝶梦闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽踩雪音",
+      "file": "狐狸の碧梧浣羽踩雪音.bds",
+      "thumb": "狐狸の碧梧浣羽踩雪音.bds_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽踩雪音.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲脆脆",
+      "file": "狐狸の葡萄狂想曲脆脆.bds",
+      "thumb": "狐狸の葡萄狂想曲脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の竹丝叩青筠脆脆",
+      "file": "狐狸の竹丝叩青筠脆脆.bds",
+      "thumb": "狐狸の竹丝叩青筠脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の竹丝叩青筠脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿闷脆",
+      "file": "狐狸の水仙螺钿闷脆.bds",
+      "thumb": "狐狸の水仙螺钿闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の月球碎片脆脆",
+      "file": "狐狸の月球碎片脆脆.bds",
+      "thumb": "狐狸の月球碎片脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の月球碎片脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦闷闷",
+      "file": "狐狸の紫藤蝶梦闷闷.bds",
+      "thumb": "狐狸の紫藤蝶梦闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下闷闷",
+      "file": "狐狸の紫藤花下闷闷.bds",
+      "thumb": "狐狸の紫藤花下闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦闷脆",
+      "file": "狐狸の紫藤蝶梦闷脆.bds",
+      "thumb": "狐狸の紫藤蝶梦闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下脆脆融合",
+      "file": "狐狸の紫藤花下脆脆融合.bds",
+      "thumb": "狐狸の紫藤花下脆脆融合.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下脆脆融合.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下闷脆",
+      "file": "狐狸の紫藤花下闷脆.bds",
+      "thumb": "狐狸の紫藤花下闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽闷脆",
+      "file": "狐狸の碧梧浣羽闷脆.bds",
+      "thumb": "狐狸の碧梧浣羽闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲闷脆",
+      "file": "狐狸の葡萄狂想曲闷脆.bds",
+      "thumb": "狐狸の葡萄狂想曲闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意闷脆",
+      "file": "狐狸の绿意闷脆.bds",
+      "thumb": "狐狸の绿意闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の绿意闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の烬时永寂闷闷",
+      "file": "狐狸の烬时永寂闷闷音.bds",
+      "thumb": "狐狸の烬时永寂闷闷音.bds_py_26_light_thumb.png",
+      "full": "狐狸の烬时永寂闷闷音.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲闷闷",
+      "file": "狐狸の葡萄狂想曲闷闷.bds",
+      "thumb": "狐狸の葡萄狂想曲闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下脆闷融合",
+      "file": "狐狸の紫藤花下脆闷融合.bds",
+      "thumb": "狐狸の紫藤花下脆闷融合.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下脆闷融合.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意踩雪",
+      "file": "狐狸の绿意踩雪.bds",
+      "thumb": "狐狸の绿意踩雪.bds_py_26_light_thumb.png",
+      "full": "狐狸の绿意踩雪.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽脆脆",
+      "file": "狐狸の碧梧浣羽脆脆.bds",
+      "thumb": "狐狸の碧梧浣羽脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意玻璃",
+      "file": "狐狸の绿意玻璃.bds",
+      "thumb": "狐狸の绿意玻璃.bds_py_26_light_thumb.png",
+      "full": "狐狸の绿意玻璃.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の绿意闷",
+      "file": "狐狸の绿意闷.bds",
+      "thumb": "狐狸の绿意闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の绿意闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦风铃",
+      "file": "狐狸の紫藤蝶梦风铃.bds",
+      "thumb": "狐狸の紫藤蝶梦风铃.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦风铃.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の月球碎片闷闷",
+      "file": "狐狸の月球碎片闷闷.bds",
+      "thumb": "狐狸の月球碎片闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の月球碎片闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の碧梧浣羽闷闷",
+      "file": "狐狸の碧梧浣羽闷闷.bds",
+      "thumb": "狐狸の碧梧浣羽闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の碧梧浣羽闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸闷闷",
+      "file": "狐狸の灰隅寻幸闷闷.bds",
+      "thumb": "狐狸の灰隅寻幸闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下脆脆",
+      "file": "狐狸の紫藤花下脆脆.bds",
+      "thumb": "狐狸の紫藤花下脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸闷脆",
+      "file": "狐狸の灰隅寻幸闷脆.bds",
+      "thumb": "狐狸の灰隅寻幸闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤蝶梦脆闷",
+      "file": "狐狸の紫藤蝶梦脆闷.bds",
+      "thumb": "狐狸の紫藤蝶梦脆闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤蝶梦脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿脆脆",
+      "file": "狐狸の水仙螺钿脆脆.bds",
+      "thumb": "狐狸の水仙螺钿脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の灰隅寻幸脆脆",
+      "file": "狐狸の灰隅寻幸脆脆.bds",
+      "thumb": "狐狸の灰隅寻幸脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の灰隅寻幸脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の水仙螺钿闷闷",
+      "file": "狐狸の水仙螺钿闷闷.bds",
+      "thumb": "狐狸の水仙螺钿闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の水仙螺钿闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下闷闷融合",
+      "file": "狐狸の紫藤花下闷闷融合.bds",
+      "thumb": "狐狸の紫藤花下闷闷融合.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下闷闷融合.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の葡萄狂想曲踩雪",
+      "file": "狐狸の葡萄狂想曲踩雪.bds",
+      "thumb": "狐狸の葡萄狂想曲踩雪.bds_py_26_light_thumb.png",
+      "full": "狐狸の葡萄狂想曲踩雪.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下闷脆融合",
+      "file": "狐狸の紫藤花下闷脆融合.bds",
+      "thumb": "狐狸の紫藤花下闷脆融合.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下闷脆融合.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の竹丝叩青筠闷脆",
+      "file": "狐狸の竹丝叩青筠闷脆.bds",
+      "thumb": "狐狸の竹丝叩青筠闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の竹丝叩青筠闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の烬时永寂脆脆音",
+      "file": "狐狸の烬时永寂脆脆音.bds",
+      "thumb": "狐狸の烬时永寂脆脆音.bds_py_26_light_thumb.png",
+      "full": "狐狸の烬时永寂脆脆音.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の紫藤花下脆闷",
+      "file": "狐狸の紫藤花下脆闷.bds",
+      "thumb": "狐狸の紫藤花下脆闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の紫藤花下脆闷.bds_py_26_light.png"
+    }
+  ]
+}

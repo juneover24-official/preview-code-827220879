@@ -1,0 +1,385 @@
+{
+  "qq_number": "827220879",
+  "group_number": "398583367",
+  "updated_at": "2026-04-23T15:52:38.167789",
+  "skins": [
+    {
+      "name": "狐狸の苹果礼仪队打击",
+      "file": "狐狸の苹果礼仪队打击音.bdi",
+      "thumb": "狐狸の苹果礼仪队打击音.bdi_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队打击音.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕闷闷",
+      "file": "狐狸の草莓蛋糕闷闷.bdi",
+      "thumb": "狐狸の草莓蛋糕闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女闷闷融合",
+      "file": "狐狸の牧羊女闷闷融合.bdi",
+      "thumb": "狐狸の牧羊女闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の苹果礼仪队闷脆音融合",
+      "file": "狐狸の苹果礼仪队闷脆融合.bdi",
+      "thumb": "狐狸の苹果礼仪队闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室闷脆融合",
+      "file": "狐狸の清欢书室闷脆融合.bdi",
+      "thumb": "狐狸の清欢书室闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の苹果礼仪队闷脆音",
+      "file": "狐狸の苹果礼仪队闷脆.bdi",
+      "thumb": "狐狸の苹果礼仪队闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の苹果礼仪队打击融合",
+      "file": "狐狸の苹果礼仪队打击音融合.bdi",
+      "thumb": "狐狸の苹果礼仪队打击音融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队打击音融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女脆脆融合",
+      "file": "狐狸の牧羊女脆脆融合.bdi",
+      "thumb": "狐狸の牧羊女脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室脆脆",
+      "file": "狐狸の清欢书室脆脆.bdi",
+      "thumb": "狐狸の清欢书室脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡可爱融合",
+      "file": "狐狸の吹泡泡可爱融合.bdi",
+      "thumb": "狐狸の吹泡泡可爱融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡可爱融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会混音有漂",
+      "file": "狐狸の花火大会混音有漂.bdi",
+      "thumb": "狐狸の花火大会混音有漂.bdi_py_26_light_thumb.png",
+      "full": "狐狸の花火大会混音有漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室脆闷",
+      "file": "狐狸の清欢书室脆闷.bdi",
+      "thumb": "狐狸の清欢书室脆闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女闷脆",
+      "file": "狐狸の牧羊女闷脆.bdi",
+      "thumb": "狐狸の牧羊女闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室闷脆",
+      "file": "狐狸の清欢书室闷脆.bdi",
+      "thumb": "狐狸の清欢书室闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕脆脆融合",
+      "file": "狐狸の草莓蛋糕脆脆融合.bdi",
+      "thumb": "狐狸の草莓蛋糕脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室闷闷",
+      "file": "狐狸の清欢书室闷闷.bdi",
+      "thumb": "狐狸の清欢书室闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室脆闷融合",
+      "file": "狐狸の清欢书室脆闷融合.bdi",
+      "thumb": "狐狸の清欢书室脆闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室脆闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室闷闷融合",
+      "file": "狐狸の清欢书室闷闷融合.bdi",
+      "thumb": "狐狸の清欢书室闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会闷闷无漂",
+      "file": "狐狸の花火大会闷闷无漂.bdi",
+      "thumb": "狐狸の花火大会闷闷无漂.bdi_py_26_light_thumb.png",
+      "full": "狐狸の花火大会闷闷无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女脆脆",
+      "file": "狐狸の牧羊女脆脆.bdi",
+      "thumb": "狐狸の牧羊女脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡闷脆",
+      "file": "狐狸の吹泡泡闷脆.bdi",
+      "thumb": "狐狸の吹泡泡闷脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡闷脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕脆闷融合",
+      "file": "狐狸の草莓蛋糕脆闷融合.bdi",
+      "thumb": "狐狸の草莓蛋糕脆闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕脆闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の苹果礼仪队脆脆融合",
+      "file": "狐狸の苹果礼仪队脆脆融合.bdi",
+      "thumb": "狐狸の苹果礼仪队脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会混音有漂融合",
+      "file": "狐狸の花火大会混音有漂融合.bdi",
+      "thumb": "狐狸の花火大会混音有漂融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の花火大会混音有漂融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会混音无漂",
+      "file": "狐狸の花火大会混音无漂.bdi",
+      "thumb": "狐狸の花火大会混音无漂.bdi_py_26_light_thumb.png",
+      "full": "狐狸の花火大会混音无漂.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡闷闷融合",
+      "file": "狐狸の吹泡泡闷闷融合.bdi",
+      "thumb": "狐狸の吹泡泡闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女闷闷",
+      "file": "狐狸の牧羊女闷闷.bdi",
+      "thumb": "狐狸の牧羊女闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女闷脆融合",
+      "file": "狐狸の牧羊女闷脆融合.bdi",
+      "thumb": "狐狸の牧羊女闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡可爱",
+      "file": "狐狸の吹泡泡可爱.bdi",
+      "thumb": "狐狸の吹泡泡可爱.bdi_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡可爱.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡脆脆融合",
+      "file": "狐狸の吹泡泡脆脆融合.bdi",
+      "thumb": "狐狸の吹泡泡脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕脆脆",
+      "file": "狐狸の草莓蛋糕脆脆.bdi",
+      "thumb": "狐狸の草莓蛋糕脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕闷闷融合",
+      "file": "狐狸の草莓蛋糕闷闷融合.bdi",
+      "thumb": "狐狸の草莓蛋糕闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕闷闷融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女特殊",
+      "file": "狐狸の牧羊女特殊.bdi",
+      "thumb": "狐狸の牧羊女特殊.bdi_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女特殊.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女特殊融合",
+      "file": "狐狸の牧羊女特殊融合.bdi",
+      "thumb": "狐狸の牧羊女特殊融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女特殊融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会混音无漂融合",
+      "file": "狐狸の花火大会混音无漂融合.bdi",
+      "thumb": "狐狸の花火大会混音无漂融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の花火大会混音无漂融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡脆脆",
+      "file": "狐狸の吹泡泡脆脆.bdi",
+      "thumb": "狐狸の吹泡泡脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡闷闷",
+      "file": "狐狸の吹泡泡闷闷.bdi",
+      "thumb": "狐狸の吹泡泡闷闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡闷闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室脆脆融合",
+      "file": "狐狸の清欢书室脆脆融合.bdi",
+      "thumb": "狐狸の清欢书室脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室脆脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕脆闷",
+      "file": "狐狸の草莓蛋糕脆闷.bdi",
+      "thumb": "狐狸の草莓蛋糕脆闷.bdi_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕脆闷.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の苹果礼仪队脆脆",
+      "file": "狐狸の苹果礼仪队脆脆.bdi",
+      "thumb": "狐狸の苹果礼仪队脆脆.bdi_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队脆脆.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡闷脆融合",
+      "file": "狐狸の吹泡泡闷脆融合.bdi",
+      "thumb": "狐狸の吹泡泡闷脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡闷脆融合.bdi_py_26_light.png"
+    },
+    {
+      "name": "狐狸の苹果礼仪队打击",
+      "file": "狐狸の苹果礼仪队打击音.bds",
+      "thumb": "狐狸の苹果礼仪队打击音.bds_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队打击音.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡脆脆",
+      "file": "狐狸の吹泡泡脆脆.bds",
+      "thumb": "狐狸の吹泡泡脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の苹果礼仪队闷脆音",
+      "file": "狐狸の苹果礼仪队闷脆.bds",
+      "thumb": "狐狸の苹果礼仪队闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡可爱",
+      "file": "狐狸の吹泡泡可爱.bds",
+      "thumb": "狐狸の吹泡泡可爱.bds_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡可爱.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡闷脆",
+      "file": "狐狸の吹泡泡闷脆.bds",
+      "thumb": "狐狸の吹泡泡闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室闷脆",
+      "file": "狐狸の清欢书室闷脆.bds",
+      "thumb": "狐狸の清欢书室闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会闷闷无漂",
+      "file": "狐狸の花火大会闷闷无漂.bds",
+      "thumb": "狐狸の花火大会闷闷无漂.bds_py_26_light_thumb.png",
+      "full": "狐狸の花火大会闷闷无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会闷闷有漂",
+      "file": "狐狸の花火大会闷闷有漂.bds",
+      "thumb": "狐狸の花火大会闷闷有漂.bds_py_26_light_thumb.png",
+      "full": "狐狸の花火大会闷闷有漂.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の苹果礼仪队脆脆",
+      "file": "狐狸の苹果礼仪队脆脆.bds",
+      "thumb": "狐狸の苹果礼仪队脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の苹果礼仪队脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女闷闷",
+      "file": "狐狸の牧羊女闷闷.bds",
+      "thumb": "狐狸の牧羊女闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室闷闷",
+      "file": "狐狸の清欢书室闷闷.bds",
+      "thumb": "狐狸の清欢书室闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会混音有漂",
+      "file": "狐狸の花火大会混音有漂.bds",
+      "thumb": "狐狸の花火大会混音有漂.bds_py_26_light_thumb.png",
+      "full": "狐狸の花火大会混音有漂.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室脆脆",
+      "file": "狐狸の清欢书室脆脆.bds",
+      "thumb": "狐狸の清欢书室脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女特殊",
+      "file": "狐狸の牧羊女特殊.bds",
+      "thumb": "狐狸の牧羊女特殊.bds_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女特殊.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕闷闷",
+      "file": "狐狸の草莓蛋糕闷闷.bds",
+      "thumb": "狐狸の草莓蛋糕闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の吹泡泡闷闷",
+      "file": "狐狸の吹泡泡闷闷.bds",
+      "thumb": "狐狸の吹泡泡闷闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の吹泡泡闷闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕脆脆",
+      "file": "狐狸の草莓蛋糕脆脆.bds",
+      "thumb": "狐狸の草莓蛋糕脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕脆脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の草莓蛋糕脆闷",
+      "file": "狐狸の草莓蛋糕脆闷.bds",
+      "thumb": "狐狸の草莓蛋糕脆闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の草莓蛋糕脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の清欢书室脆闷",
+      "file": "狐狸の清欢书室脆闷.bds",
+      "thumb": "狐狸の清欢书室脆闷.bds_py_26_light_thumb.png",
+      "full": "狐狸の清欢书室脆闷.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の花火大会混音无漂",
+      "file": "狐狸の花火大会混音无漂.bds",
+      "thumb": "狐狸の花火大会混音无漂.bds_py_26_light_thumb.png",
+      "full": "狐狸の花火大会混音无漂.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女闷脆",
+      "file": "狐狸の牧羊女闷脆.bds",
+      "thumb": "狐狸の牧羊女闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女闷脆.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の牧羊女脆脆",
+      "file": "狐狸の牧羊女脆脆.bds",
+      "thumb": "狐狸の牧羊女脆脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の牧羊女脆脆.bds_py_26_light.png"
+    }
+  ]
+}
