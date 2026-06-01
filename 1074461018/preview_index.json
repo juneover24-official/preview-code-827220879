@@ -1,7 +1,7 @@
 {
   "qq_number": "827220879",
   "group_number": "1074461018",
-  "updated_at": "2026-06-01T20:18:53+00:00",
+  "updated_at": "2026-06-01T20:21:56+00:00",
   "skins": [
     {
       "name": "狐狸の染烟翠脆脆融合",
@@ -380,6 +380,12 @@
       "file": "狐狸の绿焰禁律脆闷融合.bdi",
       "thumb": "狐狸の绿焰禁律脆闷融合.bdi_py_26_light_thumb.png",
       "full": "狐狸の绿焰禁律脆闷融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "狐狸の绿焰禁律脆脆融合",
+      "file": "狐狸の绿焰禁律脆脆融合.bdi",
+      "thumb": "狐狸の绿焰禁律脆脆融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の绿焰禁律脆脆融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
