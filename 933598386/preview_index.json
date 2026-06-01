@@ -1,7 +1,7 @@
 {
   "qq_number": "827220879",
   "group_number": "933598386",
-  "updated_at": "2026-06-01T20:36:05+00:00",
+  "updated_at": "2026-06-01T20:37:55+00:00",
   "skins": [
     {
       "name": "狐狸の莲水滴融合",
@@ -254,6 +254,12 @@
       "file": "狐狸の冬-踩雪融合.bdi",
       "thumb": "狐狸の冬-踩雪融合.bdi_py_26_light_thumb.png",
       "full": "狐狸の冬-踩雪融合.bdi_py_26_light_thumb.png"
+    },
+    {
+      "name": "狐狸の冬-闷脆",
+      "file": "狐狸の冬-闷脆.bds",
+      "thumb": "狐狸の冬-闷脆.bds_py_26_light_thumb.png",
+      "full": "狐狸の冬-闷脆.bds_py_26_light_thumb.png"
     }
   ]
 }
