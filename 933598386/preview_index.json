@@ -1,7 +1,7 @@
 {
   "qq_number": "827220879",
   "group_number": "933598386",
-  "updated_at": "2026-06-01T20:21:34+00:00",
+  "updated_at": "2026-06-01T20:23:26+00:00",
   "skins": [
     {
       "name": "狐狸の莲水滴融合",
@@ -212,6 +212,12 @@
       "file": "狐狸の秘密花园脆脆.bds",
       "thumb": "狐狸の秘密花园脆脆.bds_py_26_light_thumb.png",
       "full": "狐狸の秘密花园脆脆.bds_py_26_light_thumb.png"
+    },
+    {
+      "name": "狐狸の蕾丝花",
+      "file": "狐狸の蕾丝花.bdi",
+      "thumb": "狐狸の蕾丝花.bdi_py_26_light_thumb.png",
+      "full": "狐狸の蕾丝花.bdi_py_26_light_thumb.png"
     }
   ]
 }
