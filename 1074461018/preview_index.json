@@ -1,7 +1,7 @@
 {
   "qq_number": "827220879",
   "group_number": "1074461018",
-  "updated_at": "2026-04-23T15:52:38.048411",
+  "updated_at": "2026-06-01T19:55:39+00:00",
   "skins": [
     {
       "name": "狐狸の染烟翠脆脆融合",
@@ -326,6 +326,12 @@
       "file": "狐狸のMindlineVinea哒哒.bds",
       "thumb": "狐狸のMindlineVinea哒哒.bds_py_26_light_thumb.png",
       "full": "狐狸のMindlineVinea哒哒.bds_py_26_light.png"
+    },
+    {
+      "name": "狐狸の加冕时刻闷闷融合",
+      "file": "狐狸の加冕时刻闷闷融合.bdi",
+      "thumb": "狐狸の加冕时刻闷闷融合.bdi_py_26_light_thumb.png",
+      "full": "狐狸の加冕时刻闷闷融合.bdi_py_26_light_thumb.png"
     }
   ]
 }
